@@ -12,7 +12,7 @@ function App() {//<Skills/>
       <Header/>
       <About/>
       <Education />
-      
+      <Skills/>      
     </div>
   );
 }

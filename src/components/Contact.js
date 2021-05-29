@@ -2,7 +2,9 @@ import '../styles/Contact.css';
 
 function Contact() {
     return (
-        <div id="contact">Hey I am the Contact anchor ╰(*°▽°*)╯</div>
+        <div className="contact">
+            <h2 id="contact"></h2>
+        </div>
     )
 }
 
