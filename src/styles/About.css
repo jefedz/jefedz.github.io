@@ -6,3 +6,39 @@ a {
 a::after {
     color: #FF7129;
 }
+
+.about-title {
+    font-size: 6rem;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+
+.about-title-first {
+    color: #FF7129;
+}
+
+.about-title-second {
+    color: #2F2F2B;
+}
+
+.about-job {
+    position: relative;
+    left: 16%;
+    top: -30px;
+    color: #FF7129;
+}
+
+.logos {
+    margin-left: 33%;
+    margin-top: -3%;
+}
+
+.linkedin, .github {
+    width: 50px;
+}
+
+.description {
+    font-size: large;
+    color: #74746f;
+    margin-left: 15%;
+}
