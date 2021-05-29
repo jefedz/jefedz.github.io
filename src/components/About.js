@@ -7,7 +7,7 @@ function About() {
         <div id="#about">
             <br/>
             <div className="about-title">
-                <span className="about-title-first">AMIR</span> 
+                <span className="about-title-first">AMIR</span>&nbsp;
                 <span className="about-title-second">TALBI</span>
                 </div>
                 <br/>
