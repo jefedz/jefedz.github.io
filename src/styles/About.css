@@ -1,0 +1,8 @@
+a {
+    color: #FF7129;
+    text-decoration: none;
+}
+
+a::after {
+    color: #FF7129;
+}
