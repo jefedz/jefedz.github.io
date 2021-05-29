@@ -5,14 +5,14 @@ import Skills from './Skills';
 import Education from './Education';
 import Contact from './Contact';
 
-function App() {
+function App() {//<Skills/>
+  //<Contact />
   return (
     <div className="App">
       <Header/>
       <About/>
-      <Skills/>
-      <Education/>
-      <Contact/>
+      <Education />
+      
     </div>
   );
 }

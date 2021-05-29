@@ -33,7 +33,8 @@ li {
     padding: 2px
 }
 
-li:hover {
+
+a>li:hover{
     color: #2F2F2B;
     background-color: #FF7129;
 }

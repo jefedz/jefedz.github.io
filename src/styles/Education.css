@@ -1,0 +1,27 @@
+.education {
+    padding-top: 15%;
+    padding-bottom: 15%;
+}
+
+#education {
+    margin-left: 2%;
+}
+
+li {
+    list-style-type: none;
+}
+
+.first-name {
+    font-size: larger;
+}
+
+.first-date {
+    text-align: right;
+    margin-right: 15px;
+}
+
+.text {
+    padding-bottom: 10px;
+    border-bottom: solid 3px black;
+    width: 95%;
+}
