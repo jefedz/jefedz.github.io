@@ -1,0 +1,13 @@
+.app-logo {
+  border-radius: 50%;
+  width: 10%;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.body {
+  text-align: left;
+}
