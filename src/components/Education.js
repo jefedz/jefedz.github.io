@@ -9,8 +9,8 @@ function Education() {
                 <li>Technological University Diploma in computer science</li>
                 <li className="first-date">2020-now</li>
                 <li className="text">I am in first year in computer science in the University Institute of Technology of Sénart. <br/>
-                In this formation I have already learned Java programming, C programming, some web developpement (PHP, HTML, SQL) and system and network architecture<br/>
-                I project to do the second year as a work-study to apply the things that I learned and will learn.</li>
+                In this formation I have already learned Java programming, C programming, some web developpement (PHP, HTML, SQL) <br/>
+                and system and network architecture I project to do the second year as a work-study to apply the things that I learned and will learn.</li>
                 <br/>
                 <li className="first-name">Maurice Eliot High School</li>
                 <li>High school diploma in sciences</li>

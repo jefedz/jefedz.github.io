@@ -9,7 +9,7 @@ function Skills() {
     return (
         <div className="skills">
             <h2 id="skills">SKILLS</h2>
-            <ul>
+            <ul className="skills-list">
                 <li className="languages">Programming languages & tools</li><br/>
                 <li>
                     <img src={sql} alt="mysql logo" className="sql"/>&nbsp;
@@ -18,15 +18,15 @@ function Skills() {
                     <img src={css} alt="css logo" className="css" />&nbsp;
                     <img src={react} alt="react logo" className="react" />
                 </li>
-                <br/>
-                <li className="spoken-languages">Spoken languages</li>
+                <br/><br/>
+                <li className="spoken-languages">Spoken languages</li><br/>
                 <li>
                     <li>French &nbsp; &#11044; &#11044; &#11044; &#11044; </li>
                     <li>English &nbsp; &#11044; &#11044; &#11044; &#9675;</li>
                     <li>Spanish &nbsp; &#11044; &#11044; &#9675; &#9675;</li>
                 </li>
-                <br/>
-                <li className="strenghts">Strenghts</li>
+                <br/><br/>
+                <li className="strenghts">Strenghts</li><br/>
                 <li>
                     <li>&#9658; Enthusiastic</li>
                     <li>&#9658; Adaptive</li>

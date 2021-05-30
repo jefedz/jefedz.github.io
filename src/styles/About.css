@@ -7,10 +7,16 @@ a::after {
     color: #FF7129;
 }
 
-.about-title {
-    font-size: 6rem;
+.about {
     margin-left: 15%;
-    margin-top: 10%;
+}
+
+.about-title {
+    position: relative;
+    font-size: 6rem;
+    left: 35%;
+    top: 15%;
+    padding-top: 15%;
 }
 
 .about-title-first {
@@ -23,14 +29,16 @@ a::after {
 
 .about-job {
     position: relative;
-    left: 16%;
-    top: -30px;
+    left: 35%;
+    margin-top: 0%;
+    padding-top: 0%;
     color: #FF7129;
 }
 
 .logos {
-    margin-left: 33%;
-    margin-top: -3%;
+    position: relative;
+    margin-left: 60%;
+    margin-top: -2%;
 }
 
 .linkedin, .github {
@@ -40,5 +48,6 @@ a::after {
 .description {
     font-size: large;
     color: #74746f;
-    margin-left: 15%;
+    margin-left: 35%;
+    margin-top: 2%;
 }

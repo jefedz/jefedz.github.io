@@ -4,8 +4,9 @@ import github from '../assets/github.png';
 
 function About() {
     return (
-        <div id="#about">
+        <div id="about">
             <br/>
+            <h1 className="about"></h1>
             <div className="about-title">
                 <span className="about-title-first">AMIR</span>&nbsp;
                 <span className="about-title-second">TALBI</span>

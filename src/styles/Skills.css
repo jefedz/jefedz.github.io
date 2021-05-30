@@ -1,10 +1,18 @@
 .skills {
     padding-top: 15%;
     padding-bottom: 15%;
+    padding-left: 10%;
+    padding-right: 10%;
+    width: 100%;
 }
 
 #skills {
     margin-left: 2%;
+}
+
+.skills-list {
+    width: 80%;
+    margin-left: 15%;
 }
 
 li>img {
