@@ -13,7 +13,7 @@
 
 .header-list {
     position: relative;
-    top: 5%;
+    top: 35%;
     margin: 0;
     padding: 0;
     padding-top: 4%;
@@ -27,11 +27,11 @@
     width: 100%;
 }
 
-a>li {
+.links {
     padding: 10px 10px;
 }
 
-a>li:hover{
+.links:hover{
     color: #2F2F2B;
     background-color: #FF7129;
 }

@@ -5,7 +5,7 @@ import Skills from './Skills';
 import Education from './Education';
 
 function App() {//<Skills/>
-  //<Contact />
+  window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
   return (
     <div className="App">
       <Header/>

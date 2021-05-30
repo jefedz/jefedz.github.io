@@ -9,6 +9,7 @@ function Skills() {
     return (
         <div className="skills">
             <h2 id="skills">SKILLS</h2>
+            <scroll-page id="skills-anchor"></scroll-page>
             <ul className="skills-list">
                 <li className="languages">Programming languages & tools</li><br/>
                 <li>
